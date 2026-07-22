@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Pancacita Logo - Bintang Lima dengan Api -->
+  <circle cx="50" cy="50" r="48" fill="#1a1a2e" stroke="#10b981" stroke-width="2"/>
+  <!-- Bintang Lima -->
+  <polygon points="50,12 58,38 85,38 63,54 71,80 50,64 29,80 37,54 15,38 42,38" fill="#10b981"/>
+  <!-- Api di tengah bintang -->
+  <path d="M50,30 C50,30 42,42 42,50 C42,54.4 45.6,58 50,58 C54.4,58 58,54.4 58,50 C58,42 50,30 50,30 Z" fill="#f59e0b"/>
+  <path d="M50,38 C50,38 46,44 46,48 C46,50.2 47.8,52 50,52 C52.2,52 54,50.2 54,48 C54,44 50,38 50,38 Z" fill="#ef4444"/>
+</svg>
